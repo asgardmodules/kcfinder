@@ -21,8 +21,10 @@ $_CONFIG = array(
 
 // GENERAL SETTINGS
 
-    'disabled' => true,
-    'uploadURL' => "upload",
+    // 'disabled' => true,
+    'disabled' => false,
+    // 'uploadURL' => "upload",
+    'uploadURL' => "../../upload/kcfinder/",
     'uploadDir' => "",
     'theme' => "default",
 
